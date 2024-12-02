@@ -25,9 +25,8 @@ A weather application built with Flutter using the **BLoC** state management pat
 <img width="199" alt="weather_2" src="https://github.com/user-attachments/assets/bb5dd36f-e8f7-42a8-9308-6e79ec6c8609">
 
 ## Future Plans
-⛅ Add a 7-day weather forecast.
-🗺️ Integrate geolocation for automatic city detection.
-🎨 Support for dark mode.
+⛅ Add a 7-day weather forecast.<br>
+🗺️ Integrate geolocation for automatic city detection.<br>
 
-## License
-This project is licensed under the MIT License.
+
+
